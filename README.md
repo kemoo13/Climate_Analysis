@@ -24,12 +24,13 @@ SQLAlchemy
 ## Results
 
 To begin the analysis, precipitation was taken in to account in order to rule out the potential for the business to fail due to consistent rainfall. The dates for the precipitation were chosen as August 23, 2016 - August 23, 2017. During this year, the average precipitation was 17.7%. This is relatively low and shows little concern for excessive rainfall. 
-<img src="Resources/precipitation_chart.png" width="400">
+
+<img src="Resources/precipitation_chart.png" width="300">
 
 The analysis of the two months provided insight on the average, minimum and maximum temperatures. 
 
-<img src="Resources/june_temps.png" width="400">
-<img src="Resources/dec_temps.png" width="400">
+<img src="Resources/june_temps.png" width="300">
+<img src="Resources/dec_temps.png" width="300">
 
 By looking at the two tables we can see:
 1) The average temperature of June is 74.944118 and the average temperature of December is 71.041529. This is less than 5 degree difference and indicitive of a stable temperature year round.
